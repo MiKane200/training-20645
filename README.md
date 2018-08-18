@@ -4,4 +4,4 @@ There are some steps for you to run those programs:
 
 
 Sunshine!
-<p align="right">java-basic-test By zongwei Li</p>
+<p align="right">choerodon-test By zongwei Li</p>
