@@ -1,4 +1,4 @@
-# java basic test5
+# choerodon test
 There are some steps for you to run those programs:
 1. 需要老师手动部署到平台上。
 
